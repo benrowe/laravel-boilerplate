@@ -1,0 +1,31 @@
+# meta
+.git
+.idea
+
+# global
+.editorconfig
+.github
+*.env*
+.gitattributes
+.gitignore
+Makefile
+
+# keys
+storage/oauth-private.key
+storage/oauth-public.key
+
+_ide_*
+
+# directories
+tests/
+resources/assets
+storage/framework
+storage/cache
+storage/logs
+storage/cms
+storage/fonts
+storage/webhook-fixtures
+public/css
+public/js
+
+vendor/
